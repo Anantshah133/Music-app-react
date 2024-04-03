@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin-bottom: 0 !important;
+}
+
+body {
+    /* background-color: rgb(19, 18, 18) !important; */
+    background-color: #000 !important;
+}
+
+.poppins {
+    font-family: "Poppins", sans-serif;
+}
+
+.mont {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.height-custom {
+    height: calc(100vh - 71px);
+}
+
+.bg-light-dark {
+    background-color: #0d0d0d;
+}
+
+.text-light-dark {
+    color: #b3b3b3;
+}
+
+.color-primary{
+    color: #1ed760;
+}
+
+.active-song-list-item {
+    background-color: hsla(0, 0%, 100%, 0.19);
+}
+
+.song-list-item:hover {
+    cursor: pointer;
+    background-color: hsla(0, 0%, 100%, 0.12);
+}
+
+.active-song-list-item .play-icon{
+    visibility: visible;
+    opacity: 1;
+}
+
+.song-list-item .play-icon{
+    visibility: hidden;
+    opacity: 0;
+}
+
+
+.song-list-item:hover .play-icon{
+    visibility: visible;
+    opacity: 1;
+}

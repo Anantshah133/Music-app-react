@@ -1,0 +1,106 @@
+{
+    "posts": [],
+    "comments": [],
+    "profile": {},
+    "songs-list": [
+        {
+            "id": 1,
+            "songName": "Aise Kyun",
+            "image": "/assets/covers/c1.jpg",
+            "songPath": "/assets/songs/aise-kyun.mp3",
+            "singerName": "Anurag Saikia, Nikhita Gandhi",
+            "type": "Calm song",
+            "songDuration": "4:24"
+        },
+        {
+            "id": 2,
+            "songName": "Tere Bina",
+            "image": "/assets/covers/c2.jpg",
+            "songPath": "/assets/songs/tere-bina.mp3",
+            "singerName": "Zaeden",
+            "type": "Romance",
+            "songDuration": "2:37"
+        },
+        {
+            "id": 3,
+            "songName": "Pehli Dafa",
+            "image": "/assets/covers/c3.jpg",
+            "songPath": "/assets/songs/pehli-dafa.mp3",
+            "singerName": "Atif Aslam, Shiraz Uppal",
+            "type": "Romance",
+            "songDuration": "4:58"
+        },
+        {
+            "id": 4,
+            "songName": "Ghungaroo",
+            "image": "/assets/covers/c4.jpg",
+            "songPath": "/assets/songs/ghungaroo.mp3",
+            "singerName": "Vishal-Shekhar, Arijit Singh",
+            "type": "Rock / Chill",
+            "songDuration": "5:04"
+        },
+        {
+            "id": 5,
+            "songName": "Heer Ranjha",
+            "image": "/assets/covers/c5.jpg",
+            "songPath": "/assets/songs/heer-ranjha.mp3",
+            "singerName": "Bhuvan Bam",
+            "type": "Romance",
+            "songDuration": "4:21"
+        },
+        {
+            "id": 6,
+            "songName": "O Mere Dil Ke Chain",
+            "image": "/assets/covers/c6.jpg",
+            "songPath": "/assets/songs/ae-mere-dil-ke-chain.mp3",
+            "singerName": "Atif Aslam, Shiraz Uppal",
+            "type": "Romance",
+            "songDuration": "3:22"
+        },
+        {
+            "id": 7,
+            "songName": "I Almost Do",
+            "image": "/assets/covers/c7.jpg",
+            "songPath": "/assets/songs/i-almost-do.mp3",
+            "singerName": "Taylor Swift, R D Burman",
+            "type": "English",
+            "songDuration": "4:04"
+        },
+        {
+            "id": 8,
+            "songName": "Tum Hi Ho Bandhu (Cocktail)",
+            "image": "/assets/covers/c8.jpg",
+            "songPath": "/assets/songs/tumhi-ho-bandhu.mp3",
+            "singerName": "Niraj Shridhar, Kavita Seth",
+            "type": "Party / Dance",
+            "songDuration": "4:42"
+        },
+        {
+            "id": 9,
+            "songName": "Aapka Kya Hoga (Dhanno)",
+            "image": "/assets/covers/c9.jpg",
+            "songPath": "/assets/songs/aapka-kyaa-hoga.mp3",
+            "singerName": "Mikka Singh, Sunidhi Chauhan, Sajid Khan",
+            "type": "Party / Comedy",
+            "songDuration": "5:07"
+        },
+        {
+            "id": 10,
+            "songName": "Baadshah O Baadshah",
+            "image": "/assets/covers/c10.jpg",
+            "songPath": "/assets/songs/badshah.mp3",
+            "singerName": "Abhijit",
+            "type": "Rock Music",
+            "songDuration": "6:39"
+        },
+        {
+            "id": 11,
+            "songName": "Binding lisghts",
+            "image": "/assets/covers/c11.jpg",
+            "songPath": "/assets/songs/heer-ranjha.mp3",
+            "singerName": "The Weeknd",
+            "type": "Rock / Chill",
+            "songDuration": "03:20"
+        }
+    ]
+}
